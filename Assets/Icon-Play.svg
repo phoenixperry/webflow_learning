@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icon-Play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-361.000000, -2683.000000)">
+            <g id="Compositions" transform="translate(-330.000000, 1708.000000)">
+                <g id="Content" transform="translate(680.000000, 706.000000)">
+                    <g id="Download" transform="translate(0.000000, 260.000000)">
+                        <g id="Icon-Play" transform="translate(8.000000, 6.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                            <path d="M3,4 C3,3.44772 3.44772,3 4,3 L20,3 C20.5523,3 21,3.44772 21,4 L21,16 C21,16.5523 20.5523,17 20,17 L4,17 C3.44772,17 3,16.5523 3,16 L3,4 Z M8.6,17.8 C8.26863,17.8 8,18.0686 8,18.4 C8,18.7314 8.26863,19 8.6,19 L15.4,19 C15.7314,19 16,18.7314 16,18.4 C16,18.0686 15.7314,17.8 15.4,17.8 L8.6,17.8 Z M5.6,19.8 C5.26863,19.8 5,20.0686 5,20.4 C5,20.7314 5.26863,21 5.6,21 L18.4,21 C18.7314,21 19,20.7314 19,20.4 C19,20.0686 18.7314,19.8 18.4,19.8 L5.6,19.8 Z M9.74807,6.42747 C9.41474,6.23699 9,6.47768 9,6.86159 L9,13.1384 C9,13.5223 9.41474,13.763 9.74807,13.5725 L15.2403,10.4341 C15.5762,10.2422 15.5762,9.75783 15.2403,9.56588 L9.74807,6.42747 Z" id="Shape" fill="#3119BF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

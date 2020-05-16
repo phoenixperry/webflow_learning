@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Icon-Color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-962.000000, -405.000000)">
+            <g id="Hero" transform="translate(-294.000000, -380.012887)">
+                <g id="Option-1" transform="translate(1196.000000, 738.012887)">
+                    <g id="Icon-Color" transform="translate(58.000000, 44.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M17.6777,10.3182 L13.435,6.07554 L16.2635,3.24711 C16.654,2.85658 17.2871,2.85658 17.6777,3.24711 L20.5061,6.07554 C20.8966,6.46606 20.8966,7.09922 20.5061,7.48975 L17.6777,10.3182 Z" id="Path" fill="#2249B3"></path>
+                        <path d="M8.45345,19.4787 L8.48529,19.5106 L17.6777,10.3182 L13.435,6.07553 L5.00253,14.508 L4.99448,14.5 L4.28616,15.2083 L4.27677,15.2338 L4.24265,15.2679 L4.2584,15.2837 L2.1858,20.9093 C2.03833,21.3096 2.42757,21.6988 2.82782,21.5513 L8.45345,19.4787 Z" id="Path" fill="#FCAACF"></path>
+                        <path d="M2.82784,21.5513 C2.42759,21.6988 2.03835,21.3095 2.18582,20.9093 L4.28617,15.2083 L8.52882,19.451 L2.82784,21.5513 Z" id="Path" fill-opacity="0.5" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

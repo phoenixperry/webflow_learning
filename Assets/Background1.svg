@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3008px" height="774px" viewBox="0 0 3008 774" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Background1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="89.4660714%" y1="9.10262359%" x2="60.6152558%" y2="101.233217%" id="linearGradient-1">
+            <stop stop-color="#3C10ED" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.7729794%" y1="53.1451015%" x2="4.88321968%" y2="62.2304748%" id="linearGradient-2">
+            <stop stop-color="#F5F8FC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1494.414,1138.90722 C1441.80557,1004.03157 1519.20057,1004.54407 1588.17319,964.731429 C1634.15494,938.189671 1669.82382,705.35079 1695.17983,266.214785 L254.306127,1092.71058 C422.577789,1384.17296 531.809606,1573.36802 582.001578,1660.29575 C619.370583,1725.01532 833.702335,1431.42612 971.332723,1332.48082 C1108.96311,1233.53552 1267.89708,1228.66097 1325.69337,1230.92509 C1365.22893,1232.47387 1547.02242,1273.78287 1494.414,1138.90722 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Background1" transform="translate(-318.000000, -752.000000)">
+                <rect id="Rectangle" fill="#F5F8FC" x="318" y="752" width="3008" height="774"></rect>
+                <g id="Background" transform="translate(974.742980, 967.867513) rotate(-330.000000) translate(-974.742980, -967.867513) ">
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                </g>
+                <g id="Tree" transform="translate(1155.081128, 1176.012887)">
+                    <g id="Group" opacity="0.49" fill="#532EEF" fill-rule="nonzero">
+                        <path d="M163.542,61.1285 C146.178,110.311 152.915,126.46 103.719,150.71 C33.0169,166.947 20.9457,121.952 14.1383,90.8871 C-22.9045,56.4012 24.6298,0.919846 73.9609,1.30596 C100.877,-3.69725 173.952,20.6423 163.542,61.1285 Z" id="Path"></path>
+                    </g>
+                    <path d="M78,267.762 L78,117.271 M78,60 L78,117.271 M78,117.271 L114.124,93.7479" id="Shape" stroke="#F5F8FC" stroke-width="2" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="565px" height="261px" viewBox="0 0 565 261" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Place-Clouds</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-54.6692419%" x2="50%" y2="143.130821%" id="linearGradient-1">
+            <stop stop-color="#ACD9FD" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-54.6692419%" x2="50%" y2="143.130821%" id="linearGradient-2">
+            <stop stop-color="#ACD9FD" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-54.6692419%" x2="50%" y2="143.130821%" id="linearGradient-3">
+            <stop stop-color="#ACD9FD" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-318.000000, -1797.000000)">
+            <g id="Place" transform="translate(279.000000, 1714.000000)">
+                <g id="Place-Clouds" transform="translate(39.881300, 83.430700)">
+                    <path d="M143.7327,44.214 C143.7327,35.4913 136.9747,27.9864 127.2727,24.6417 C126.8297,10.9743 112.3217,-2.84217094e-14 94.4887,-2.84217094e-14 C82.9827,-2.84217094e-14 72.8607,4.5689 67.0077,11.4814 C65.2777,11.2648 63.5037,11.1515 61.6937,11.1515 C51.7187,11.1515 42.7827,14.5864 36.7682,20.0055 C33.9537,19.2653 30.9356,18.8632 27.7944,18.8632 C12.4448,18.8632 1.42108547e-14,28.4574 1.42108547e-14,40.2933 L143.7327,44.214 Z" id="Cloud1" fill="url(#linearGradient-1)"></path>
+                    <path d="M220.8427,259.7593 C220.8427,252.8293 215.4737,246.8673 207.7647,244.2103 C207.4127,233.3513 195.8868,224.6323 181.7191,224.6323 C172.5777,224.6323 164.5354,228.2623 159.8858,233.7543 C158.5115,233.5823 157.1021,233.4923 155.6639,233.4923 C147.739,233.4923 140.6394,236.2213 135.8608,240.5263 C133.6247,239.9383 131.2268,239.6193 128.7312,239.6193 C116.5362,239.6193 106.64897,247.2413 106.64897,256.6453 L220.8427,259.7593 Z" id="Cloud2" fill="url(#linearGradient-2)"></path>
+                    <path d="M563.9077,124.9736 C563.9077,112.717 554.4097,102.1708 540.7787,97.4719 C540.1557,78.2685 519.7707,62.848841 494.7147,62.848841 C478.5477,62.848841 464.3247,69.26826 456.1009,78.9815 C453.671,78.6763 451.1772,78.5176 448.6354,78.5176 C434.6187,78.5176 422.0637,83.3429 413.6123,90.9567 C409.6568,89.9169 405.4155,89.3527 401.0035,89.3527 C379.4353,89.3527 361.950731,102.8337 361.950731,119.4632 L563.9077,124.9736 Z" id="Cloud3" fill="url(#linearGradient-3)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

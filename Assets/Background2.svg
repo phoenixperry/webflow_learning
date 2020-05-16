@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560px" height="1943px" viewBox="0 0 2560 1943" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Background2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#F5F8FC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="17.5697643%" x2="72.8024818%" y2="68.0186402%" id="linearGradient-2">
+            <stop stop-color="#0091FF" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="10.1644814%" y1="100%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#F5F8FC" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2241.15623,132.768731 C2080.25342,391.856412 2150,581 2061.91842,840.927496 C1973.83684,1100.85499 1045.54606,1757 1033,1757 C1027.49727,1757 491.364705,2104.63281 35.46875,2104.63281 C-77.0729167,2104.63281 790.791414,2095.91146 2639.06174,2078.46875 L2601.57897,120.182492 C2468.56569,-44.1518023 2348.42477,-39.9563891 2241.15623,132.768731 Z" id="path-4"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Backgrounds">
+            <g id="Background2" transform="translate(-40.000000, -162.000000)">
+                <path d="M2236.12581,125.787775 C2075.223,384.875455 2129.112,638.738116 2056.888,833.946539 C2008.73867,964.085488 1662.93746,1256.10331 1019.48437,1710 C680.03125,1936.98438 352.026042,2059.80729 35.46875,2078.46875" id="Path-2" stroke="#32C5FF" stroke-width="2"></path>
+                <path d="M2220.19391,72.019925 C2057.29517,328.48492 2117.34626,609.857891 2045.12226,805.066314 C1972.89826,1000.27474 1091.01676,1659.8291 1057.06915,1688.95676 C1023.12154,1718.08443 536.786012,2089.33937 35.1074327,2106.86199" id="Path-2" stroke="#0091FF" transform="translate(1127.650670, 1089.440958) rotate(2.000000) translate(-1127.650670, -1089.440958) "></path>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(252.000000, 2000.500000) rotate(-180.000000) translate(-252.000000, -2000.500000) " x="40" y="1896" width="424" height="209"></rect>
+                <g id="Path-2">
+                    <use fill="url(#linearGradient-2)" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Line" transform="translate(2077.000000, 461.000000)" stroke-linecap="round" stroke-width="2">
+                    <path d="M33.8042,9.4366 L33.8042,9.4366 C41.4678,-3.1424 59.7304,-3.14252 67.394,9.4365 L67.3944,9.4371 C75.058,22.0159 93.3204,22.016 100.984,9.4373 L100.986,9.4347 C108.649,-3.14374 126.911,-3.14399 134.575,9.4344 L134.578,9.4396 C142.242,22.0177 160.503,22.0178 168.167,9.4398 L168.171,9.4335 C175.835,-3.14459 194.096,-3.14447 201.76,9.4337 L201.762,9.4374 C205.538,15.6345 211.886,18.7784 218.272,18.8691" id="Path" stroke="#BBDFFC"></path>
+                    <path d="M0,9.4344 L0.00317,9.4396 C7.66687,22.0177 25.9283,22.0178 33.5921,9.4398 L33.5959,9.4335 C41.2597,-3.14459 59.5213,-3.14447 67.185,9.4337 L67.1872,9.4374 C70.963,15.6345 77.3114,18.7784 83.6974,18.8691" id="Path" stroke="#B7DEFD"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

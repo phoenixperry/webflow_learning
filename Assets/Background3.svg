@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560px" height="1993px" viewBox="0 0 2560 1993" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Background3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#F5F8FC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="71.9649612%" y1="38.995067%" x2="79.5811553%" y2="62.3538107%" id="linearGradient-2">
+            <stop stop-color="#3C11EE" offset="0%"></stop>
+            <stop stop-color="#B3A5F7" offset="46.6774033%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.00569768%" y1="72.6611846%" x2="29.4427146%" y2="70.7320048%" id="linearGradient-3">
+            <stop stop-color="#F5F8FC" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1003.50022,1575.19922 C1396.58067,1147.30408 1462.47695,959.984375 1810.34788,968.542969 C2158.21881,977.101562 2094.16819,1087.00391 2420.84788,1052.35547 C2747.52757,1017.70703 2495.62132,609.168399 2482.69944,365.518319 C2474.08486,203.084932 2575.32835,81.2454925 2786.42991,0 L2965.76975,1078.45703 C2819.16508,1235.19141 2675.21716,1313.55859 2533.926,1313.55859 C2322.58438,1313.55859 1956.58572,1115.68716 1810.34788,1094.58984 C1471.15231,1045.65508 1417.11916,1289.42568 1135.67325,1575.19922 C854.227348,1860.97276 604.518189,1909.625 396.416626,1962.5 C86.679914,2041.19873 -72.5361207,1958.53338 32.0338137,1962.5 C410.994751,1976.875 832.6875,1761.14062 1003.50022,1575.19922 Z" id="path-4"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Backgrounds" transform="translate(0.000000, -2258.000000)">
+            <g id="Background3" transform="translate(-60.000000, 2170.000000)">
+                <path d="M59.46875,2019.15625 C502.395833,2019.15625 904.445312,1867.13281 1145.9035,1601.82812 C1310.5,1411.5 1479.14844,1139.11719 1716.28,1119.25 C1953.41156,1099.38281 2182.96875,1345.63281 2573.74219,1360.00182 C2834.25781,1369.58116 3036.29948,1298.26545 3179.86719,1146.05469" id="Path-5" stroke="#0091FF"></path>
+                <path d="M3,2022.063 C580.893449,2050.126 985.307003,1799.15625 1149.9035,1608.82812 C1314.5,1418.5 1483.14844,1146.11719 1720.28,1126.25 C1957.41156,1106.38281 2186.96875,1352.63281 2577.74219,1367.00182 C2838.25781,1376.58116 3040.29948,1305.26545 3183.86719,1153.05469" id="Path-5" stroke="#32C5FF" stroke-width="2"></path>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(271.000000, 1938.000000) rotate(-180.000000) translate(-271.000000, -1938.000000) " x="59" y="1795" width="424" height="286"></rect>
+                <g id="Path-4">
+                    <use fill="url(#linearGradient-2)" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

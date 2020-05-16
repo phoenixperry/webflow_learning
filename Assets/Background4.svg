@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560px" height="2561px" viewBox="0 0 2560 2561" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Background4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#F5F8FC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.1536227%" y1="21.1832058%" x2="33.8636976%" y2="61.3888157%" id="linearGradient-2">
+            <stop stop-color="#0091FF" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="28.6834195%" y1="63.5614178%" x2="87.0990929%" y2="63.5614178%" id="linearGradient-3">
+            <stop stop-color="#F5F8FC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F5F8FC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M152.392139,16.6095588 C333.208546,-35.02716 464.731983,175.695496 505.138233,264.773621 C545.544483,353.851746 674.771046,680.433778 965.271046,870.168153 C1158.93771,996.657736 1432.10438,1119.61477 1784.77105,1239.03925 C2441.69273,1449.97827 2829.84196,1619.29852 2949.21875,1747 C3330.47185,2154.83964 3020,2569.31573 3020,2622 C3020,2713.19375 2608.25702,2505.14063 1784.77105,1997.84064 C1335.4898,1718.23867 1012.91427,1481.79185 817.044483,1288.50018 C523.239796,998.562684 536.372608,842.937684 421.997608,434.937684 C307.622608,26.9376838 155.294483,46.3126838 0.739795597,16.6095588" id="path-4"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Backgrounds" transform="translate(0.000000, -3598.000000)">
+            <g id="Background4" transform="translate(-203.000000, 3599.000000)">
+                <path d="M152.392139,11.5749659 C333.208546,-40.0617529 464.731983,163.695496 505.138233,252.773621 C545.544483,341.851746 674.771046,668.433778 965.271046,858.168153 C1158.93771,984.657736 1419.93272,1113.32068 1784.77105,1227.03925 C2149.60938,1340.75781 2620.92969,1533 2819,1605.80469" id="Path-6" stroke="#0091FF"></path>
+                <path d="M152.392139,8.57496588 C333.208546,-43.0617529 464.731983,151.695496 505.138233,240.773621 C545.544483,329.851746 674.771046,656.433778 965.271046,846.168153 C1158.93771,972.657736 1434.87803,1108.57849 1784.77105,1215.03925 C2018.03306,1286.01308 2359.07292,1404.91146 2807.89062,1571.73438" id="Path-6" stroke="#32C5FF" stroke-width="2"></path>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="2339" y="1369" width="424" height="286"></rect>
+                <g id="Path-6">
+                    <use fill="url(#linearGradient-2)" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

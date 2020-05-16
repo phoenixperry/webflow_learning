@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="32px" viewBox="0 0 22 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Logo-Figma</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-351.000000, -762.000000)" fill-rule="nonzero">
+            <g id="Hero" transform="translate(-294.000000, -380.012887)">
+                <g id="Logos" transform="translate(483.000000, 1142.012887)">
+                    <g id="Logo-Figma" transform="translate(162.000000, 0.000000)">
+                        <path d="M5.28,32 C8.19456,32 10.56,29.610688 10.56,26.666688 L10.56,21.333376 L5.28,21.333376 C2.36544,21.333376 0,23.722688 0,26.666688 C0,29.610688 2.36544,32 5.28,32 Z" id="Path" fill="#0ACF83"></path>
+                        <path d="M0,16 C0,13.056 2.36544,10.666624 5.28,10.666624 L10.56,10.666624 L10.56,21.333312 L5.28,21.333312 C2.36544,21.333312 0,18.944 0,16 Z" id="Path" fill="#A259FF"></path>
+                        <path d="M0,5.3333312 C0,2.3893312 2.36544,0 5.28,0 L10.56,0 L10.56,10.666688 L5.28,10.666688 C2.36544,10.666688 0,8.277312 0,5.3333312 Z" id="Path" fill="#F24E1E"></path>
+                        <path d="M10.56,0 L15.84,0 C18.75456,0 21.12,2.3893312 21.12,5.3333312 C21.12,8.277312 18.75456,10.666688 15.84,10.666688 L10.56,10.666688 L10.56,0 Z" id="Path" fill="#FF7262"></path>
+                        <path d="M21.12,16 C21.12,18.944 18.75456,21.333312 15.84,21.333312 C12.92544,21.333312 10.56,18.944 10.56,16 C10.56,13.056 12.92544,10.666624 15.84,10.666624 C18.75456,10.666624 21.12,13.056 21.12,16 Z" id="Path" fill="#1ABCFE"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="70px" viewBox="0 0 145 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Background-Button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="70.8985046%" y1="36.4823415%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#DB97FF" offset="0%"></stop>
+            <stop stop-color="#FFD2F4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-189.000000, -514.000000)" fill="url(#linearGradient-1)">
+            <g id="Hero" transform="translate(-294.000000, -380.012887)">
+                <g id="Button" transform="translate(469.000000, 894.012887)">
+                    <g id="Group-2" transform="translate(14.000000, 0.000000)">
+                        <path d="M87.2696813,50.2609897 C65.5490937,-5.43769781 97.5033834,-5.22605729 125.980301,-21.6672135 C144.964913,-32.6279843 163.622867,-66.5559194 181.954161,-123.451019 L-33.9783046,-1.09175237 L17.6095251,88.2609897 C78.530021,100.060115 101.750073,87.3934481 87.2696813,50.2609897 Z" id="Background-Button" transform="translate(73.987928, -15.461127) rotate(-330.000000) translate(-73.987928, 15.461127) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
